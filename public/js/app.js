@@ -1,5 +1,3 @@
-console.log('client side server is up')
-
 const weatherForm=document.querySelector('form')
 const search=document.querySelector('input')
 const messageOne=document.querySelector('#message-one')
